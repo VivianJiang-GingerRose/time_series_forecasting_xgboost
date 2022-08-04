@@ -1,6 +1,6 @@
 ### Forecasting quarterly CPI with ABS retail trade turnover data using GBM, turning a time series forecast problem into a regression problem.
 ---
-Forecasted June quarter CPI: **1.13%** compare to previous quarter. Actual CPI: **1.8%** - not too bad ✌️
+Forecasted 2022 June quarter CPI: **1.13%** compare to previous quarter. Actual CPI: **1.8%** - not too bad ✌️
 
 Next steps is to add more time series data that are typically available prior to cpi is published, such as petrol prices, logistic statistics, property sales/auction rate, stock market stats etc.
 
